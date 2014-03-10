@@ -1,4 +1,4 @@
-AutomapperRC-Issue
+Automapper 3.2.0-ci1010 Issue
 ==================
 
 Issue deploying automapper rc nuget package on apphabor
